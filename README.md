@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Chat-bot look like
+
+![alt text](https://github.com/greeky-tarun/react-chat-bot-frontend/blob/main/chat_bot.png?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
